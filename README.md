@@ -64,20 +64,31 @@ This keeps the app fast, clean, and easy to maintain.
 ```bash
 git clone https://github.com/Arnob087/Task_Manager_Frontend.git
 cd Task_Manager_Frontend
+```
 
 ###2. Install dependencies
 
-npm install
+```bash
 
+npm install
+```
 
 3. Setup environment variables
 
 Create a .env.local file in the root:
 
+```bash
+
 NEXT_PUBLIC_API_URL=your_backend_api_url_here
 
+```
+
 4. Run the project
+
+```bash
+
 npm run dev
+
 ```
 
 Open in browser:
