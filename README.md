@@ -1,36 +1,110 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Task Manager – Frontend  
 
-## Getting Started
+A modern, scalable, and high-performance **Task Management System UI** built with **Next.js (App Router)**.  
+This application provides an intuitive interface to manage tasks, users, and workflows by connecting to a backend API.
 
-First, run the development server:
+Designed for productivity, speed, and real-world use.
+
+---
+
+## ✨ Features
+
+- 📋 View and manage tasks  
+- ➕ Create new tasks  
+- ✏️ Update existing tasks  
+- 🗑 Delete tasks  
+- 📊 Track task progress  
+- 🔄 Sync with backend in real time  
+- 📱 Responsive and clean UI  
+
+---
+
+## 🧠 Tech Stack
+
+- **Next.js (App Router)**
+- **React**
+- **TypeScript**
+- **Modern UI Components**
+- **API-Driven Architecture**
+
+---
+
+## 🗂 Project Structure
+
+Task_Manager_Frontend
+│
+├── public/
+├── src/
+│ ├── app/ # App Router pages
+│ ├── components/ # Reusable UI components
+│ ├── hooks/ # Custom hooks
+│ ├── services/ # API communication
+│ ├── styles/ # Global styles
+│ └── types/ # TypeScript types
+│
+└── package.json
+
+
+---
+
+## 🌐 How It Works
+
+UI → React Components → API Services → Backend → Database
+
+
+
+This keeps the app fast, clean, and easy to maintain.
+
+---
+
+## ▶️ Getting Started
+
+### 1. Clone the repository
 
 ```bash
+git clone https://github.com/Arnob087/Task_Manager_Frontend.git
+cd Task_Manager_Frontend
+
+###2. Install dependencies
+
+npm install
+
+
+3. Setup environment variables
+
+Create a .env.local file in the root:
+
+NEXT_PUBLIC_API_URL=your_backend_api_url_here
+
+4. Run the project
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open in browser:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+http://localhost:3000
 
-## Learn More
+📦 Deployment
 
-To learn more about Next.js, take a look at the following resources:
+This project can be deployed easily on:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Netlify
 
-## Deploy on Vercel
+Any Node.js supported hosting
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👨‍💻 Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Arnob Dey
+Full-Stack Developer
+E-Mail : deyarnob087@gmail.com
+Bangladesh 🇧🇩
+GitHub: https://github.com/Arnob087
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
+---
