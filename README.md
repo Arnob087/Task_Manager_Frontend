@@ -30,7 +30,7 @@ Designed for productivity, speed, and real-world use.
 ---
 
 ## 🗂 Project Structure
-
+```
 Task_Manager_Frontend
 │
 ├── public/
@@ -43,7 +43,7 @@ Task_Manager_Frontend
 │ └── types/ # TypeScript types
 │
 └── package.json
-
+```
 
 ---
 
@@ -78,7 +78,7 @@ NEXT_PUBLIC_API_URL=your_backend_api_url_here
 
 4. Run the project
 npm run dev
-
+```
 
 Open in browser:
 
@@ -98,8 +98,8 @@ Any Node.js supported hosting
 
 Arnob Dey
 Full-Stack Developer
-E-Mail : deyarnob087@gmail.com
 Bangladesh 🇧🇩
+E-Mail : deyarnob087@gmail.com
 GitHub: https://github.com/Arnob087
 
 📜 License
