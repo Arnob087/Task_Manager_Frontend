@@ -86,7 +86,7 @@ http://localhost:3000
 
 ---
 
-###📦 Deployment
+📦 Deployment
 
 This project can be deployed easily on:
 
@@ -98,7 +98,7 @@ Any Node.js supported hosting
 
 ---
 
-###👨‍💻 Author
+👨‍💻 Author
 
 Arnob Dey
 Full-Stack Developer
@@ -108,7 +108,7 @@ GitHub: https://github.com/Arnob087
 
 ---
 
-###📜 License
+📜 License
 
 This project is licensed under the MIT License.
 
