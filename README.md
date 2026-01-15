@@ -84,7 +84,9 @@ Open in browser:
 
 http://localhost:3000
 
+
 ---
+
 
 📦 Deployment
 
@@ -96,17 +98,25 @@ Netlify
 
 Any Node.js supported hosting
 
+
 ---
+
 
 👨‍💻 Author
 
 Arnob Dey
+
 Full-Stack Developer
+
 Bangladesh 🇧🇩
+
 E-Mail : deyarnob087@gmail.com
+
 GitHub: https://github.com/Arnob087
 
+
 ---
+
 
 📜 License
 
