@@ -91,7 +91,7 @@ npm run dev
 
 ```
 
-### Open in browser:
+## Open in browser:
 
 http://localhost:3000
 
@@ -99,7 +99,7 @@ http://localhost:3000
 ---
 
 
-### 📦 Deployment
+## 📦 Deployment
 
 This project can be deployed easily on:
 
@@ -113,7 +113,7 @@ Any Node.js supported hosting
 ---
 
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
 Arnob Dey
 
@@ -129,7 +129,7 @@ GitHub: https://github.com/Arnob087
 ---
 
 
-### 📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
