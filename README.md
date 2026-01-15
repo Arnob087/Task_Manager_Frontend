@@ -66,14 +66,14 @@ git clone https://github.com/Arnob087/Task_Manager_Frontend.git
 cd Task_Manager_Frontend
 ```
 
-###2. Install dependencies
+### 2. Install dependencies
 
 ```bash
 
 npm install
 ```
 
-3. Setup environment variables
+### 3. Setup environment variables
 
 Create a .env.local file in the root:
 
@@ -83,7 +83,7 @@ NEXT_PUBLIC_API_URL=your_backend_api_url_here
 
 ```
 
-4. Run the project
+### 4. Run the project
 
 ```bash
 
@@ -91,7 +91,7 @@ npm run dev
 
 ```
 
-Open in browser:
+### Open in browser:
 
 http://localhost:3000
 
@@ -99,7 +99,7 @@ http://localhost:3000
 ---
 
 
-📦 Deployment
+### 📦 Deployment
 
 This project can be deployed easily on:
 
@@ -113,7 +113,7 @@ Any Node.js supported hosting
 ---
 
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Arnob Dey
 
@@ -129,7 +129,7 @@ GitHub: https://github.com/Arnob087
 ---
 
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License.
 
